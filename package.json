@@ -1,0 +1,19 @@
+{
+  "name": "encom-login",
+  "version": "1.0.0",
+  "description": "demo login app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "angular-flash-alert": "^2.5.0",
+    "angular-ui-bootstrap": "^2.5.6",
+    "body-parser": "*",
+    "express": "*",
+    "mongoose": "*",
+    "nodemon": "^1.18.10"
+  },
+  "author": "David Thomas",
+  "license": "ISC"
+}
