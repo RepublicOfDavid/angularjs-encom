@@ -24,4 +24,4 @@ To demo the site you'll need the credentials:
 Email: eve.holt@reqres.in
 Password: cityslicka
 
-**View:** [Frontend](https://encom-angularjs.netlify.app/ "See the front end in action"){:target="_blank"}
+**View:** [Frontend](https://encom-angularjs.netlify.app/ "See the front end in action")
