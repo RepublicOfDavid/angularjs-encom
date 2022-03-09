@@ -1,4 +1,4 @@
-# Flynn Lives! Login form setup posting to a RESTful API using AngularJS
+# Flynn Lives! Login form setup posting to a RESTful API using AngularJS.
 
 **I kept dreaming of a world I thought I'd never see. And then one day, I got in.**
 
